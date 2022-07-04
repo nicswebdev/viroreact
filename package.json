@@ -10,7 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.10",
     "@viro-community/react-viro": "^2.20.2",
+    "mobx-react": "^7.5.1",
+    "mobx-react-lite": "^3.4.0",
     "react": "17.0.2",
     "react-native": "0.65.1"
   },
